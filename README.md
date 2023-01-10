@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Link
+[Live Website](https://snazzy-smakager-612dd8.netlify.app)
+
+## Screenshots of live website
+### Landing Page(empty)
+![home](https://github.com/NamanH16/react-notes-app/blob/master/src/assets/home.png) 
+
+### Notes saved to localStorage
+![home_page](https://github.com/NamanH16/react-notes-app/blob/master/src/assets/note.png)
+
+### Add and delete your notes from localStorage
+![add_delete](https://github.com/NamanH16/react-notes-app/blob/master/src/assets/add%20and%20delete.png)
+
+### Markdown Available
+![markdown](https://github.com/NamanH16/react-notes-app/blob/master/src/assets/markdown.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
